@@ -12,4 +12,7 @@ Assurez-vous que toutes les ressources sont correctement organisées et annotée
 
 Liste des ressources: 
 
+## Comprendre la Data
 fiches_2_comprendre_une_image_satellitaire_1.pdf -->  Ce document propose d'aborder (de façon simplifiée) les notions essentielles pour savoir lire une image de télédétection. 
+
+https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis --> Il est recommandé de suivre ce cours, qui offre des explications approfondies pour une meilleure compréhension des images satellitaires.
