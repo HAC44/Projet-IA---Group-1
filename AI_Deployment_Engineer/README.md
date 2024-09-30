@@ -17,6 +17,6 @@ Dans le cadre de votre rôle, vous devez réaliser une première investigation s
    - Quelles technologies et quels outils seront nécessaires pour le développement de la plateforme ?
 
 
-Date Limite : 4 octobre 2024
+Date Limite : 07 octobre 2024
 
 
