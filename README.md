@@ -6,7 +6,8 @@
 Ce projet a pour objectif de développer une plateforme intelligente capable de prédire l'évolution géographique de l'oasis de Tafilalet en s'appuyant sur l'analyse d'images satellites. Grâce à des algorithmes avancés d'apprentissage automatique et de deep learning, nous allons modéliser les transformations spatiales du paysage au fil des années, en offrant un outil précieux pour la gestion des ressources naturelles et la préservation de cet environnement unique.
 
 ![image](https://github.com/user-attachments/assets/02a40a6f-ebe5-4434-bc9e-b75505bd1a8a)
-![image](https://github.com/user-attachments/assets/a69b794f-9934-4dc4-a662-9bfe50c9130e)
+![image](https://github.com/user-attachments/assets/45a96f07-b34c-4b16-9f30-50059e4637b8)
+
 
 
 ## Structure du Projet
