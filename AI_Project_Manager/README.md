@@ -3,7 +3,7 @@
 
 Instructions 1 : 30/09/2024
 
-Vous devez doit soumettre un Premier Livrable de 2 à 3 pages fesant office d'un premier draft POUR  l'ANALYSE DU BESOIN du projet contenant les éléments suivants :
+Vous devez soumettre un premier livrable de 2 à 3 pages faisant office d'un premier draft pour l'analyse des besoins du projet, contenant les éléments suivants:
 
 1.  Contexte : 
    - Fournir des informations de base sur le problème.
