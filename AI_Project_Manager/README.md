@@ -3,11 +3,9 @@
 
 Instructions 1 : 30/09/2024
 
-Date Limite : 4 octobre 2024
-
 Vous devez doit soumettre un Premier Livrable de 2 à 3 pages fesant office d'un premier draft POUR  l'ANALYSE DU BESOIN du projet contenant les éléments suivants :
 
-1.Contexte : 
+1.  Contexte : 
    - Fournir des informations de base sur le problème.
 
 2.  Problématique : 
