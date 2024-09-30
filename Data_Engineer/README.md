@@ -25,4 +25,4 @@ Comment ces limitations pourraient-elles affecter le projet ?
 ## Affichage de la Base de Données 
 Écrivez un code pour afficher les images du jeu de données. Par exemple, vous pouvez utiliser le framework Rasterio de Python. 
 
-Date Limite : 4 octobre 2024
+Date Limite : 07 octobre 2024
