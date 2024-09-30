@@ -22,5 +22,5 @@ Vous devez soumettre un premier livrable de 2 à 3 pages faisant office d'un pre
 5. Analyse Globale : 
    - Discuter des avantages et des limitations de l'approche utilisée.
 
-Date Limite : 4 octobre 2024
+Date Limite : 07 octobre 2024
 
