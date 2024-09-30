@@ -22,9 +22,9 @@ Instructions 1 : 30/09/2024
    Si les données doivent être labellisées, expliquez les méthodes possibles :
    - Quels types de labels seront nécessaires ?
 
-3. Entrées et Sorties :  
-   Décrivez les entrées et sorties des modèles que vous envisagez d'utiliser :
-   - Quelles caractéristiques des images satellites seront utilisées comme entrées ?
-   - Quel type de sortie le modèle doit-il produire (par exemple, carte d’occupation, classe prédite, etc.) ?
+3. Entrées et Sorties :
+   
+  Quelles sont les données d'entrée et les sorties attendues pour chaque méthode ?
+
 
 Date Limite : 07 octobre 2024
