@@ -12,4 +12,4 @@ Assurez-vous que toutes les ressources sont correctement organisées et annotée
 
 Liste des ressources: 
 
-fiches_2_comprendre_une_image_satellitaire_1.pdf --> L'imagerie satellitaire (aussi appelée imagerie spatiale) désigne la prise d'images depuis l'espace, par des capteurs placés sur des satellites. Visuellement, les images satellitaires ressemblent beaucoup à des photos, mais elles contiennent bien plus d'informations. Ce document propose d'aborder (de façon simplifiée) les notions essentielles pour savoir lire une image de télédétection. 
+fiches_2_comprendre_une_image_satellitaire_1.pdf -->  Ce document propose d'aborder (de façon simplifiée) les notions essentielles pour savoir lire une image de télédétection. 
