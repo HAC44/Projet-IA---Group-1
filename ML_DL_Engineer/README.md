@@ -18,11 +18,9 @@ Instructions 1 : 30/09/2024
      - Discutez des différences entre les approches supervisées (nécessitant des données labellisées) et non supervisées.
      - Indiquez des exemples de techniques pour chacune de ces approches.
 
-2. Labelisation des Données :  
-   Si les données doivent être labellisées, expliquez les méthodes possibles :
-   - Quels types de labels seront nécessaires ?
+      Discuter des avantages et limites de chaque méthode.
 
-3. Entrées et Sorties :
+2. Entrées et Sorties :
    
   Quelles sont les données d'entrée et les sorties attendues pour chaque méthode ?
 
