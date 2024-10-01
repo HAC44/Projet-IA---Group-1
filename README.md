@@ -10,10 +10,11 @@ Ce projet a pour objectif de développer une plateforme intelligente capable de 
 
 
 
-## Structure du Projet
+## Structure du GIT
 
 Cette structure de dépôt Git est une démonstration, spécifiquement élaborée pour les étudiants de la 5ème année du programme IABD de l'EIGSI Casablanca. Elle est conçue pour être forkée par chaque équipe d'étudiants, qui collaboreront ensemble selon les rôles définis, pour mener à bien leur projet de recherche.
 
+Chaque rôle dispose de son propre dossier dans ce dépôt Git, correspondant aux responsabilités spécifiques de chaque membre de l'équipe. À l'intérieur de chaque dossier, un fichier README.md est présent pour fournir les instructions détaillées de travail liées à ce rôle. Ce fichier permettra au formateur de communiquer des directives et de suivre les tâches assignées à chaque étudiant selon leur rôle.
 
 ## Rôles au sein de l'Équipe
 Chaque équipe est composée des rôles suivants, chacun jouant un rôle clé dans la réussite du projet :
@@ -26,9 +27,6 @@ Ingénieur Data : Responsable de la gestion des bases de données et des infrast
 
 Chef projet IA (Data scientist): Le Data Scientist joue un rôle de Chef projet IA, assurant la coordination entre les différents postes de l'équipe. Il doit s'assurer que les différentes composantes du projet sont bien intégrées et que l'ensemble des objectifs du projet sont atteints dans les délais impartis.  Il devra également aider ses collègues dans chaque rôle (multi-rôle).
 
-
-## Organisation des Dossiers par Rôle
-Chaque rôle dispose de son propre dossier dans ce dépôt Git, correspondant aux responsabilités spécifiques de chaque membre de l'équipe. À l'intérieur de chaque dossier, un fichier README.md est présent pour fournir les instructions détaillées de travail liées à ce rôle. Ce fichier permettra au formateur de communiquer des directives et de suivre les tâches assignées à chaque étudiant selon leur rôle.
 
 ## Guidelines
 
