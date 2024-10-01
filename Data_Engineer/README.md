@@ -2,7 +2,7 @@
 
 Instructions 1 : 30/09/2024
 
-En tant que Data Engineer, vous devez soumettre un premier livrable, faisant office de premier draft pour une description détaillée du jeu de données du projet (lien de la base de données) [https://drive.google.com/drive/folders/12JSV8jCCBftZ5bF6Ci2Lk65XtKiDcolv?usp=sharing]. Ce rapport doit contenir les éléments suivants :
+En tant que Data Engineer, vous devez soumettre un premier livrable, faisant office de premier draft pour une description détaillée du jeu de données du projet (lien de la base de données uniquement accessible avec une adresse eigsica) [https://drive.google.com/drive/folders/12JSV8jCCBftZ5bF6Ci2Lk65XtKiDcolv?usp=sharing] . Ce rapport doit contenir les éléments suivants :
 
 ## Informations clés
 
