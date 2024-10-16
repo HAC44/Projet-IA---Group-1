@@ -43,3 +43,35 @@ https://www.youtube.com/watch?v=ffdgVGA_mk4.
 Veuillez vous assurer que ce découpage est correctement réalisé avant de transmettre le dataset à l'équipe de labélisation.
 
 Date Limite : 14 octobre 2024
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Instruction 3 : 16/10/2024
+
+Vous êtes invité(e) à finaliser la partie labellisation du nouveau dataset Croper en suivant la méthodologie décrite ci-dessous.
+
+1. **Installation de l'extension SCP** : Veuillez d'abord installer l'extension SCP (Semi-Automatic Classification Plugin) en suivant le tutoriel disponible à cette adresse : [Tuto SCP](https://www.youtube.com/watch?v=uq5ZmX5RXNs). 
+
+2. **Problèmes d'installation** : Si vous rencontrez des problèmes lors de l'installation, vous pouvez mettre à jour la bibliothèque `remotior-sensus` à la dernière version. Pour ce faire, ouvrez l'interface de commande de QGIS :
+
+   - Allez dans le menu `Plugins` > `Python Console`.
+   - Dans la console qui s'ouvre, cliquez sur l'icône de la boîte de dialogue (ou utilisez le raccourci Ctrl+Shift+P) pour accéder à l'interface de commande.
+   - Tapez la commande suivante et appuyez sur Entrée :
+
+   ```bash
+   pip install remotior-sensus --upgrade
+   ```
+
+3. **Labellisation des images** : Une fois l'extension installée, suivez les tutoriels pour labelliser vos images :
+   - [Tuto pour labelliser les images](https://www.youtube.com/watch?v=7SZDCFXjIbA).
+   - Les classes à définir sont : 
+     - Oasis (végétation)
+     - Eau
+     - Erg (Sahara sableux)
+     - Reg (Sahara rocheux)
+     - Terrain artificiel (panneaux solaires, routes, bâtiments, etc.)
+   - Assurez-vous d'exporter les fichiers labellisés au format GeoJSON et que le système de référence de coordonnées (CRS) soit le même que celui utilisé dans votre projet.
+
+Date limite : 21/10/2024
+
+
